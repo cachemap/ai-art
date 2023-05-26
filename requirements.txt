@@ -1,0 +1,33 @@
+accelerate @ file:///home/conda/feedstock_root/build_artifacts/accelerate_1679856997502/work
+brotlipy @ file:///D:/bld/brotlipy_1666764804378/work
+certifi==2022.12.7
+cffi @ file:///D:/bld/cffi_1671179506518/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+cryptography @ file:///D:/bld/cryptography-split_1681508778756/work
+diffusers @ file:///home/conda/feedstock_root/build_artifacts/diffusers_1681763070720/work
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1681839547898/work
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1680980497582/work
+huggingface-hub @ file:///home/conda/feedstock_root/build_artifacts/huggingface_hub_1682380747563/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1682176699712/work
+numpy @ file:///D:/bld/numpy_1682210442656/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+Pillow @ file:///D:/bld/pillow_1675487397478/work
+psutil @ file:///D:/bld/psutil_1681775154843/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1680037383858/work
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+PyYAML @ file:///D:/bld/pyyaml_1666772550103/work
+regex @ file:///D:/bld/regex_1679599381946/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1680286922386/work
+tokenizers==0.13.3
+torch==1.12.1
+torchaudio==0.12.1
+torchvision==0.13.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1677948868469/work
+transformers==4.28.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1678559861143/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1678635778344/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work
